@@ -40,3 +40,6 @@ export PATH=~/Library/Android/sdk/platform-tools:$PATH
 
 ## IAP
 `sdkbox import iap` version 2.1.1.2
+
+## ChartBoost
+`sdkbox import chartboost` version v2.1.1.2
