@@ -46,7 +46,9 @@ export PATH=~/Library/Android/sdk/platform-tools:$PATH
 
 안드로이드에서는
 
-`<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+`
+<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+`
 
 이게 자동으로 추가 안돼서 따로 추가해야된다.
 
